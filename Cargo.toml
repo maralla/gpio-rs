@@ -1,0 +1,8 @@
+[package]
+name = "gpio"
+version = "0.1.0"
+authors = ["maralla <maralla.ai@gmail.com>"]
+
+[dependencies]
+memmap = "0.5.2"
+byteorder = "1"
